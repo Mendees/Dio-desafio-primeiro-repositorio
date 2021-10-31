@@ -13,14 +13,17 @@ Primeiro curso: Eduzz Fullstack
 
 Primeiro Projeto em Execução para Git/GitHub
 
+#### Sobre mim:
+
+Romenique da Silva Mendes 
+
+Natural da cidade de Sao Paulo 
+
+23 anos, Masculino 
+
+#### Redes socias :
+
+https://www.instagram.com/
 
 
-
-
-
-
-
-
-## links úteis 
-[Sintaxe basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
